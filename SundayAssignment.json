@@ -1,0 +1,42 @@
+{
+   "booklist": {
+      "book": [
+         {
+            "title": "Harry Potter Sorcerer's stone",
+            "author": "J K. Rowling",
+            "year": "1997",
+            "price": "$ 18"
+         },
+         {
+            "title": "Harry Potter and chambers of Secrets",
+            "author": "J K. Rowling",
+            "year": "1998",
+            "price": "$ 20"
+         },
+         {
+            "title": "Harry Potter and the prisoner of Azkaban",
+            "author": "J K. Rowling",
+            "year": "1999",
+            "price": "$ 22"
+         },
+         {
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J K. Rowling",
+            "year": "2000",
+            "price": "$ 24"
+         },
+         {
+            "title": "Harry Potter and the Order of phoenix",
+            "author": "J K. Rowling",
+            "year": "2003",
+            "price": "$ 26"
+         },
+         {
+            "title": "Harry Potter and the Half blood prince",
+            "author": "J K. Rowling",
+            "year": "2005",
+            "price": "$ 28"
+         }
+      ]
+   }
+}
